@@ -4,6 +4,8 @@
 
 <img width="1268" height="704" alt="image" src="https://github.com/user-attachments/assets/4104384f-6559-4f0b-a7b2-eb578c8c1c4c" />
 ---
+Link pbix: https://alumnouaemex-my.sharepoint.com/:u:/g/personal/salcantarad001_alumno_uaemex_mx/EZtbfi_F5SJBuDQ7UByrWF0BTGlzRUye-txA48ZnUsXnzg?e=NjijHq
+
 
 ### Resumen del Proyecto
 
